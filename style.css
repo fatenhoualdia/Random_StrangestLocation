@@ -1,0 +1,33 @@
+:root {
+    background-color: #4F78D1;
+  }
+  
+  #random-location-button {
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    border: none;
+    font-weight: bolder;
+    border-radius: 5px;
+    color: rgb(23, 23, 23);
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  #random-location-button:hover {
+    background-color: #dbdada;
+  }
+  
+  .center-div {
+    position: absolute;
+    top: 40px; /* Adjust this value as needed */
+    left: 40%;
+    transform: translateX(-50%);
+    /* Additional styles for your content */
+    width: 200px; /* Set your preferred width */
+    height: 200px; /* Set your preferred height */
+    background-color: #f0f0f0; /* Background color for visualization */
+    border: 1px solid #f8f4f4; /* Border for visualization */
+  }
+
+  
