@@ -177,7 +177,7 @@
       }
     },
     {
-      name: "plane on the forest",
+      name: "plane On the forest",
       coordinates: {
         lat: 45.407817,
         lng: -123.008573,
